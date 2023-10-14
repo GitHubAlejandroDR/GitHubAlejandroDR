@@ -1,27 +1,28 @@
 <div id="header" align="center
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
     <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 </div>
 </div>
 
-### H there 👋
+### Hi there, welcome to my GitHub profile 👋
 
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :muscle: I 𝐝𝐞𝐞𝐩 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐚𝐜𝐭𝐢𝐨𝐧𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐝𝐮𝐫𝐢𝐧𝐠 𝐞𝐯𝐞𝐫𝐲 𝐬𝐭𝐞𝐩 𝐨𝐟 𝐚𝐧 𝐌𝐋 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: I have 𝐬𝐨𝐥𝐢𝐝 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐨𝐟 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :seedling:  I am always 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐧𝐞𝐰 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐧𝐝 𝐚𝐜𝐜𝐞𝐩𝐭 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐰𝐢𝐭𝐡 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐦
+
+- :zap: I'm 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐃𝐚𝐭𝐚𝐎𝐩𝐬 𝐚𝐧𝐝 𝐌𝐋𝐎𝐩𝐬
+
+-  :bookmark_tabs: I'm currently 𝐝𝐞𝐞𝐩𝐢𝐧𝐠 𝐦𝐲 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐢𝐧 𝐣𝐞𝐧𝐤𝐢𝐧𝐬 𝐚𝐧𝐝 𝐬𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlejandroDR-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
@@ -37,32 +38,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TF" alt="TF" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   
 </div>
 
+<!---
 ---
 
 ### :notebook_with_decorative_cover: My Projects :
 
 ---
+--->
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubAlejandroDR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**GitHubAlejandroDR/GitHubAlejandroDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
