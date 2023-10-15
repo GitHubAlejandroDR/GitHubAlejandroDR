@@ -80,6 +80,14 @@ Talk to me about:
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+| Step 1 |
+| -- | 
+| Text1Text1Text1Text1Text1 |
+
+| Step1 Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1Text1 |
+| -- |
+
+
 ### :notebook_with_decorative_cover: My Projects :
 
 ---
