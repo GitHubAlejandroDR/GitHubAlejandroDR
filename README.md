@@ -1,12 +1,4 @@
-<div id="header" align="center
-  <div id="badges">
-    <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-</div>
-</div>
-
-### Hi there, welcome to my GitHub profile 👋
+# Hi there, welcome to my GitHub profile 👋
 
 ---
 
