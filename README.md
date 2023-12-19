@@ -37,7 +37,18 @@
 
 ---
 
+### :notebook_with_decorative_cover: My Projects :
 
+- [Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis) ](https://github.com/GitHubAlejandroDR/prognosis-prediction-TCGA)
+- [Python-based CLI for interacting with a local MySQL database ](https://github.com/GitHubAlejandroDR/cli-mysql)
+- [Modeling, Implementation and Testing a Microwave System | Java | Patterns Design | JUNIT | CUCUMBER ](https://github.com/GitHubAlejandroDR/Microondas_ADominguez)
+- [GUI Calculator](https://github.com/GitHubAlejandroDR/InterfazGr-ficaCalculadora)
+- [Electronic devices states control | Java | Pattern Design ](https://github.com/GitHubAlejandroDR/P2_PdD_ADominguez)
+- [MLOps Project Clinical PCR Prediction  | DVC | Pytest | MLFlow | Pandera | Deepcheck ](https://github.com/GitHubAlejandroDR/cancer-clinical-test)
+- [System Biology Project | R ](https://github.com/GitHubAlejandroDR/systems-biology-course_final-project-R-networks)
+- [Data Structures and Algorithms Projects | Java ](https://github.com/GitHubAlejandroDR/data-structures-and-algorithms-course_projects-Java)
+- [Pathology Complete Response Predictors Design on Neoadjuvant Breast Cancer Integrating Gene Expression Data | R ](https://github.com/GitHubAlejandroDR/data-mining-course_final-project-R)
+- [Survival Analysis | Time Series | R | Statistical Analysis ](https://github.com/GitHubAlejandroDR/survival-analysis-ML-course_project) 
 
 
 <!---
@@ -49,13 +60,7 @@
 - *Fundamentals of Data Engineering: Building Robust Data Systems for Modern Analytics and Insights* by Daniel Garfield
 - 
 
-### :notebook_with_decorative_cover: My Projects :
 
-- [Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis)](https://github.com/GitHubAlejandroDR/prognosis-prediction-TCGA)
-- [Python-based CLI for interacting with a local MySQL database](https://github.com/GitHubAlejandroDR/cli-mysql)
-- [Modeling, Implementation and Testing a Microwave System | Java | Patterns Design | JUNIT | CUCUMBER](https://github.com/GitHubAlejandroDR/Microondas_ADominguez)
-- [GUI Calculator](https://github.com/GitHubAlejandroDR/InterfazGr-ficaCalculadora)
-- [Electronic devices states control | Java | Pattern Design](https://github.com/GitHubAlejandroDR/P2_PdD_ADominguez)
   
 
 
