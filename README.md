@@ -14,7 +14,7 @@
 
 -  :bookmark_tabs: I'm currently 𝐝𝐞𝐞𝐩𝐢𝐧𝐠 𝐦𝐲 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐢𝐧 𝐣𝐞𝐧𝐤𝐢𝐧𝐬 𝐚𝐧𝐝 𝐬𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlejandroDR-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlejandroDR-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/alejandrodominguezrecio)
 
 ---
 
