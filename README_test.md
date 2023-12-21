@@ -1,3 +1,152 @@
+# Hi, I'm Alejandro. Welcome to my space 👋 :smiley:
+
+---
+
+### :man_technologist: About Me :
+
+- :muscle: I 𝐝𝐞𝐞𝐩 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐚𝐜𝐭𝐢𝐨𝐧𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐝𝐮𝐫𝐢𝐧𝐠 𝐞𝐯𝐞𝐫𝐲 𝐬𝐭𝐞𝐩 𝐨𝐟 𝐚𝐧 𝐌𝐋 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- :telescope: I have 𝐬𝐨𝐥𝐢𝐝 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐨𝐟 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬
+
+- :seedling:  I am always 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐧𝐞𝐰 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐧𝐝 𝐚𝐜𝐜𝐞𝐩𝐭 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐰𝐢𝐭𝐡 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐦
+
+- :zap: I have a strong understanding of 𝐌𝐋𝐎𝐩𝐬 and 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐌𝐋 𝐬𝐲𝐬𝐭𝐞𝐦𝐬
+
+-  :bookmark_tabs: I'm currently 𝐝𝐞𝐞𝐩𝐢𝐧𝐠 𝐦𝐲 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐢𝐧 𝐣𝐞𝐧𝐤𝐢𝐧𝐬 𝐚𝐧𝐝 𝐬𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞
+
+- :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-AlejandroDR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrodominguezrecio/)
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="React" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TF" alt="TF" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  
+</div>
+
+---
+
+### :notebook_with_decorative_cover: My Projects :
+
+- [Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis)](https://github.com/GitHubAlejandroDR/prognosis-prediction-TCGA)
+- [Python-based CLI for interacting with a local MySQL database ](https://github.com/GitHubAlejandroDR/cli-mysql)
+- [Modeling, Implementation and Testing a Microwave System | Java | Patterns Design | JUNIT | CUCUMBER ](https://github.com/GitHubAlejandroDR/Microondas_ADominguez)
+- [GUI Calculator](https://github.com/GitHubAlejandroDR/InterfazGr-ficaCalculadora)
+- [Electronic devices states control | Java | Pattern Design ](https://github.com/GitHubAlejandroDR/P2_PdD_ADominguez)
+- [MLOps Project Clinical PCR Prediction  **| DVC | Pytest | MLFlow | Pandera | Deepcheck** ](https://github.com/GitHubAlejandroDR/cancer-clinical-test)
+- [System Biology Project | R ](https://github.com/GitHubAlejandroDR/systems-biology-course_final-project-R-networks)
+- [Data Structures and Algorithms Projects | Java ](https://github.com/GitHubAlejandroDR/data-structures-and-algorithms-course_projects-Java)
+- [Pathology Complete Response Predictors Design on Neoadjuvant Breast Cancer Integrating Gene Expression Data | R ](https://github.com/GitHubAlejandroDR/data-mining-course_final-project-R)
+- [Survival Analysis | Time Series | R | Statistical Analysis ](https://github.com/GitHubAlejandroDR/survival-analysis-ML-course_project) 
+
+----
+
+## Header 1 (e.g Machine Learning)
+
+| **Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis)** |
+| -- |
+
+**Highlights**
+
+- 4 ML models to predict colorectal cancer survival using TCGA omics data. Challenges include bias detection due to variable proportions
+- 4 ML models to predict colorectal cancer survival using TCGA omics data. Challenges include bias detection due to variable proportions
+- 4 ML models to predict colorectal cancer survival using TCGA omics data. Challenges include bias detection due to variable proportions
+
+| **R** | **Python** | **Data Analysis** |
+
+----
+
+## Header 3 (e.g Projects)
+
+### Header 1 (e.g Machine Learning)
+
+| **Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis)** |
+| -- |
+| R, Statistical Analysis |
+
+| **Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis)** |
+| -- |
+| R, Statistical Analysis |
+
+----
+
+## Header 3 (e.g Projects)
+
+### Header 1 (e.g Machine Learning)
+
+- **Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis)** 
+  - R, Statistical Analysis
+- **Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis)** 
+  - R, Statistical Analysis
+    
+----
+
+
+| Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis) |
+| -- |
+
+**Highlights**
+
+4 ML models to predict colorectal cancer survival using TCGA omics data. Challenges include bias detection due to variable proportions
+
+| **R** | **Python** | **Data Analysis** |
+
+----
+
+### Project: Predicting Pathology Response in Colorectal Cancer
+
+**Description:**
+Implemented 4 ML models to predict colorectal cancer survival using TCGA omics data. Addressed challenges in bias detection.
+
+**Skills:**
+- R
+- Python
+- Data Analysis
+
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+
+<table>
+  <tr>
+    <th><h2>Project Description</h2></th>
+  </tr>
+</table>
+
+
+<div style="border: 1px solid #000000; padding: 10px;">
+    This is framed text in Markdown.
+</div>
+
+<!---
+---
+
+###  :books: Readings
+
+- *Designing Machine Learning Systems* by Chip Huyan (currently reading)
+- *Fundamentals of Data Engineering: Building Robust Data Systems for Modern Analytics and Insights* by Daniel Garfield
+- 
+
+
+  
+
+
+---
+--->
+
+
+
+
+
 <div id="header" align="center
   <div id="badges">
     <div align="center">
