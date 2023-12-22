@@ -16,6 +16,138 @@
 
 - :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-AlejandroDR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrodominguezrecio/)
 
+---
+
+## :notebook_with_decorative_cover: My Projects:
+
+<h3>MLOps</h3>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/cancer-clinical-test"><strong>MLOps Project Clinical PCR Prediction</strong></a></td>
+  </tr>
+  <tr>
+    <td>Python - DVC - Pytest - MLFlow - Pandera - Deepcheck - Hydra - Poetry</td>
+  </tr>
+</table>
+
+<h3>Machine Learning</h3>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/prognosis-prediction-TCGA"><strong>Applying Machine Learning to Predict Pathology Response in Colorectal Cancer (bachelor thesis)</strong></a></td>
+  </tr>
+  <tr>
+    <td>R - Statistical Analysis - Bias Analysis - SVM - LGBM</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/data-mining-course_final-project-R"><strong>Pathology Complete Response Predictors Design on Neoadjuvant Breast Cancer Integrating Gene Expression Data</strong></a></td>
+  </tr>
+  <tr>
+    <td>R - Statistical Analysis - Neural Networks - Decision Trees - Logistic Regression - SVM</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/survival-analysis-ML-course_project"><strong>Survival Analysis + Machine Learning on Breast Cancer Data</strong></a></td>
+  </tr>
+  <tr>
+    <td>R - Time Series - Kaplan Meier - Statistical Analysis - Lasso - Neural Networks - SVM - RF</td>
+  </tr>
+</table>
+
+<h3>Databases</h3>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/cli-mysql"><strong>Python-based CLI for Interacting with a Local MySQL Database</strong></a></td>
+  </tr>
+  <tr>
+    <td>Python - MySQL - Poetry</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/open-data-standards-course_final-project-XML-SPARQL-RDF"><strong>Database Management System Design for CITIES Website</strong></a></td>
+  </tr>
+  <tr>
+    <td>XML - SPARQL - RDF - GraphDB</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/biological-databases-course_project-mysqlp-mongodb"><strong>Biological Database Design Using Multi-source Integration</strong></a></td>
+  </tr>
+  <tr>
+    <td>Python - MySQL - MongoDB - XML - JSON - Advanced SQL Queries</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/databases-course_final-project-oracle-python"><strong>Pharmaceutical Logistics Distribution Database</strong></a></td>
+  </tr>
+  <tr>
+    <td>Oracle SQL - SQL Functions - SQL Procedures - Advanced SQL Queries</td>
+  </tr>
+</table>
+
+<h3>Software Engineering</h3>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/Microondas_ADominguez"><strong>Modeling, Implementation and Testing a Microwave System</strong></a></td>
+  </tr>
+  <tr>
+    <td>Java - Patterns Design - JUNIT - CUCUMBER </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/InterfazGr-ficaCalculadora"><strong>GUI Calculator</strong></a></td>
+  </tr>
+  <tr>
+    <td>Java - User Interface</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/P2_PdD_ADominguez"><strong>Electronic Devices States Control</strong></a></td>
+  </tr>
+  <tr>
+    <td>Java - Patterns Desing</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/data-structures-and-algorithms-course_projects-Java"><strong>Data Structures and Algorithms Projects</strong></a></td>
+  </tr>
+  <tr>
+    <td>Java - Patterns Desing</td>
+  </tr>
+</table>
+
+<h3>Network Analysis</h3>
+
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/systems-biology-course_final-project-R-networks"><strong>Expansión de red genética de Hashimoto</strong></a></td>
+  </tr>
+  <tr>
+    <td>R - Network Analysis</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -37,18 +169,6 @@
 
 ---
 
-### :notebook_with_decorative_cover: My Projects :
-
-- [Applying machine learning to predict pathology response in colorectal cancer (bachelor thesis) ](https://github.com/GitHubAlejandroDR/prognosis-prediction-TCGA)
-- [Python-based CLI for interacting with a local MySQL database ](https://github.com/GitHubAlejandroDR/cli-mysql)
-- [Modeling, Implementation and Testing a Microwave System | Java | Patterns Design | JUNIT | CUCUMBER ](https://github.com/GitHubAlejandroDR/Microondas_ADominguez)
-- [GUI Calculator](https://github.com/GitHubAlejandroDR/InterfazGr-ficaCalculadora)
-- [Electronic devices states control | Java | Pattern Design ](https://github.com/GitHubAlejandroDR/P2_PdD_ADominguez)
-- [MLOps Project Clinical PCR Prediction  | DVC | Pytest | MLFlow | Pandera | Deepcheck ](https://github.com/GitHubAlejandroDR/cancer-clinical-test)
-- [System Biology Project | R ](https://github.com/GitHubAlejandroDR/systems-biology-course_final-project-R-networks)
-- [Data Structures and Algorithms Projects | Java ](https://github.com/GitHubAlejandroDR/data-structures-and-algorithms-course_projects-Java)
-- [Pathology Complete Response Predictors Design on Neoadjuvant Breast Cancer Integrating Gene Expression Data | R ](https://github.com/GitHubAlejandroDR/data-mining-course_final-project-R)
-- [Survival Analysis | Time Series | R | Statistical Analysis ](https://github.com/GitHubAlejandroDR/survival-analysis-ML-course_project) 
 
 
 <!---
