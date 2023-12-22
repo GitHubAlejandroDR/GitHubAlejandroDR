@@ -71,8 +71,6 @@
 
 <h3>MLOps</h3>
 
-[MLOps Project Clinical PCR Prediction  **| DVC | Pytest | MLFlow | Pandera | Deepcheck** ](https://github.com/GitHubAlejandroDR/cancer-clinical-test)
-
 <table>
   <tr>
     <td><a href="https://github.com/GitHubAlejandroDR/cancer-clinical-test"><strong>MLOps Project Clinical PCR Prediction</strong></a></td>
@@ -172,6 +170,15 @@
 <table>
   <tr>
     <td><a href="https://github.com/GitHubAlejandroDR/P2_PdD_ADominguez"><strong>Electronic Devices States Control</strong></a></td>
+  </tr>
+  <tr>
+    <td>Java - Patterns Desing</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/GitHubAlejandroDR/data-structures-and-algorithms-course_projects-Java"><strong>Data Structures and Algorithms Projects</strong></a></td>
   </tr>
   <tr>
     <td>Java - Patterns Desing</td>
