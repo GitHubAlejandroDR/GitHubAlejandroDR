@@ -67,7 +67,7 @@
 
 ----
 
-## My Projects:
+## :notebook_with_decorative_cover My Projects:
 
 <h3>MLOps</h3>
 
