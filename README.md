@@ -123,7 +123,7 @@
     <td><a href="https://github.com/GitHubAlejandroDR/P2_PdD_ADominguez"><strong>Electronic Devices States Control</strong></a></td>
   </tr>
   <tr>
-    <td>Java - Patterns Desing</td>
+    <td>Java - Patterns Design</td>
   </tr>
 </table>
 
@@ -132,7 +132,7 @@
     <td><a href="https://github.com/GitHubAlejandroDR/data-structures-and-algorithms-course_projects-Java"><strong>Data Structures and Algorithms Projects</strong></a></td>
   </tr>
   <tr>
-    <td>Java - Patterns Desing</td>
+    <td>Java - Patterns Design</td>
   </tr>
 </table>
 
